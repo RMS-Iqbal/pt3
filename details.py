@@ -6,7 +6,7 @@ user_name = input (" What is your full name? ")
 
 user_age = input (" How old are you? ")
 
-user_house_number = input (" What is your house number? ")
+user_house_number = float(input(" What is your house number? "))
 
 street_name = input (" What is the name of your street? ")
 
