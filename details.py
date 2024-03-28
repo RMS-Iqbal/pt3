@@ -8,7 +8,7 @@ user_age = input (" How old are you? ")
 
 user_house_number = input (" What is your house number? ")
 
-user_street = input (" What is the name of your street? ")
+street_name = input (" What is the name of your street? ")
 
 # Print out all the information collected in a single sentence.
 
