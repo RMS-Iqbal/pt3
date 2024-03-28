@@ -10,7 +10,7 @@ user_house_number = input (" What is your house number? ")
 
 street_name = input (" What is the name of your street? ")
 
-# Print out all the information collected in a single sentence.
+# Print out all the provided information collected in a sentence.
 
 print (f" This is {user_name} . He is {user_age} years old and lives at house number {user_house_number} on {user_street}.")
 
